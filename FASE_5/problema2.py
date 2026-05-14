@@ -79,4 +79,4 @@ for producto in menu:
 
 print("\n<------ PROMOCIÓN APLICADA EXITOSAMENTE ------>")
 print("<------- REALIZADO POR CRISTIAN SOLANO ------->")
-print("<---------- GRUPO NUMERO 213022A_2201 ---------->")
+print("<---------- GRUPO NUMERO 213022_302 ---------->")
